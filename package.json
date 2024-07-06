@@ -1,0 +1,25 @@
+{
+  "name": "@abhinavkumar2369/basic-js-functions",
+  "version": "1.0.0",
+  "description": "A package with some useful javascript functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinavkumar2369/Basic-Js-Functions.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "keywords": [
+    "hashing"
+  ],
+  "author": "Abhinav Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abhinavkumar2369/Basic-Js-Functions/issues"
+  },
+  "homepage": "https://github.com/abhinavkumar2369/Basic-Js-Functions#readme"
+}
