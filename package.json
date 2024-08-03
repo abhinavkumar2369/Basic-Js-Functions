@@ -21,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/abhinavkumar2369/Basic-Js-Functions/issues"
   },
-  "homepage": "https://github.com/abhinavkumar2369/Basic-Js-Functions#readme"
+  "homepage": "https://github.com/abhinavkumar2369/Basic-Js-Functions#readme",
+  "private":"false"
 }
